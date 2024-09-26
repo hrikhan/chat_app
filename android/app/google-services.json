@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385255613059",
+    "project_id": "cli-connet",
+    "storage_bucket": "cli-connet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385255613059:android:7152174caf6dbc39e071b6",
+        "android_client_info": {
+          "package_name": "com.mydomain.shopease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-WK5No0EEWP6vuri6AfDv3601vdJ03s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
