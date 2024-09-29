@@ -27,10 +27,10 @@ android {
         applicationId = "com.example.chat_box_2024"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = flutter.minSdkVersion
-        targetSdk = flutter.targetSdkVersion
-        versionCode = flutter.versionCode
-        versionName = flutter.versionName
+         minSdkVersion 23  // Change this from 21 to 23
+        targetSdkVersion 30 // You can keep this as it is or adjust accordingly
+        versionCode 1
+        versionName "1.0"
     }
 
     buildTypes {
